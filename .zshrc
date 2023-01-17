@@ -1,0 +1,7 @@
+alias gaa='git add *'
+alias gcm='git commit -m'
+alias gpll='git pull'
+alias gpsh='git push'
+alias grom='git branch --set-upstream-to=origin/main main'
+alias gcz='git checkout'
+alias gst='git status'
